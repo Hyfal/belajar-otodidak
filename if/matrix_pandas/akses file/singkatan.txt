@@ -1,0 +1,3 @@
+HTTP=HypeText Transfer Protocol
+HTML=Hype Text Markup Language
+JSON=JavaScript Object Notation
